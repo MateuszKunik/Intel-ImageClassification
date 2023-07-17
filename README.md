@@ -25,6 +25,7 @@ Install dependencies
 ```bash
   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
   pip install pytorch-lightning
+  pip install -U 'tensorboardX'
 ```
 
 Run the code
